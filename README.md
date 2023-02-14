@@ -15,4 +15,4 @@ The program is not intended to be used for illegal purposes or to cause harm to 
 The Cossacks Memory Reading program is a tool for learning about memory reading&writing in C++, and is not intended for malicious or illegal purposes. If you choose to use this code part, do so only for educational purposes and in a legal and ethical manner.
 
 ## License
-This software is released under the LGPL-3.0 License, see LICENSE.
+This software is released under the MIT License, see LICENSE.
